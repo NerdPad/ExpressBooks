@@ -1,0 +1,12 @@
+{
+  "name": "ExpressBookApplication",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.4",
+    "mongoose": "^4.3.4",
+    "underscore": "^1.8.3"
+  }
+}
